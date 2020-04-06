@@ -1,0 +1,47 @@
+{
+ "cdcdx": [
+  {
+    "category": "A00 Cholera",
+    "code": "A000",
+    "name": "Cholera due to Vibrio cholerae 01, biovar cholerae",
+    "code_name": "A000 Cholera due to Vibrio cholerae 01, biovar cholerae"
+  },
+  {
+    "category": "A00 Cholera",
+    "code": "A001",
+    "name": "Cholera due to Vibrio cholerae 01, biovar eltor",
+    "code_name": "A001 Cholera due to Vibrio cholerae 01, biovar eltor"
+  },
+  {
+    "category": "A00 Cholera",
+    "code": "A009",
+    "name": "Cholera, unspecified",
+    "code_name": "A009 Cholera, unspecified"
+  },
+  {
+    "category": "A01 Typhoid and paratyphoid fevers",
+    "code": "A0100",
+    "name": "Typhoid fever, unspecified",
+    "code_name": "A0100 Typhoid fever, unspecified"
+  },
+  {
+    "category": "A01 Typhoid and paratyphoid fevers",
+    "code": "A0101",
+    "name": "Typhoid meningitis",
+    "code_name": "A0101 Typhoid meningitis"
+  },
+  {
+    "category": "A01 Typhoid and paratyphoid fevers",
+    "code": "A0102",
+    "name": "Typhoid fever with heart involvement",
+    "code_name": "A0102 Typhoid fever with heart involvement"
+  },
+  {
+    "category": "A01 Typhoid and paratyphoid fevers",
+    "code": "A0103",
+    "name": "Typhoid pneumonia",
+    "code_name": "A0103 Typhoid pneumonia"
+  }
+  ]
+
+}
